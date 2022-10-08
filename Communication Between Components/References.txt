@@ -1,2 +1,3 @@
 [1] https://www.youtube.com/watch?v=kUc-rwbJtqY
     https://github.com/HasangaLakdinu/angularRxjstute
+[2] https://thrkardak.medium.com/angular-bak-%C5%9Fu-konu%C5%9Fana-abc1a085eb00
